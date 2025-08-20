@@ -1,4 +1,4 @@
-# maze_pygame  
+# mazepygame  
 A Maze game  
 # __How to use__  
 __Windows__:  
