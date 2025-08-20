@@ -2,10 +2,10 @@
 A Maze game  
 # __How to use__  
 __Windows__:  
-Open file main.exe  
+Open file main.exe or main-hard.exe  
 __Linux__:  
 Install pygame package  
-Open file main.py  
+Open file main.py or main.hard.py  
 __And keys__:  
 Arrows: Move the blue square  
 If it goes to the yellow square, game ends.  
